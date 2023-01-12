@@ -240,7 +240,6 @@ header nav div .menu-bar {
   padding-bottom: 12px;
 }
 
-
 .section-title {
   font-weight: 700;
   font-size: 32px;
@@ -349,24 +348,6 @@ header nav div .menu-bar {
   flex-grow: 0;
   padding-top: 12px;
   list-style: none;
-}
-
-.li11 {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  padding: 4px 12px;
-  background: #ebebff;
-  border-radius: 8px;
-  flex: none;
-  order: 0;
-  flex-grow: 0;
-  font-weight: 500;
-  font-size: 12px;
-  line-height: 16px;
-  letter-spacing: 0.03em;
-  color: #6070ff;
-  margin-right: 8px;
 }
 
 .li11 {
