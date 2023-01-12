@@ -534,6 +534,8 @@ header nav div .menu-bar {
 }
 
 .about-heading {
+  width: 327px;
+  height: 40px;
   font-weight: 700;
   font-size: 40px;
   line-height: 52px;
@@ -547,6 +549,9 @@ header nav div .menu-bar {
 }
 
 .about-description {
+  width: 327px;
+  height: 144px;
+  top: 113px;
   font-weight: 400;
   font-size: 16px;
   line-height: 24px;
