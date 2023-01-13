@@ -3,10 +3,6 @@ A Microverse exercise to finish the mobile version
 <a name="readme-top"></a>
 
 <div align="center">
-
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  
-  <br/>
   <h3><b>Microverse README Template</b></h3>
 </div>
 
@@ -33,7 +29,7 @@ A Microverse exercise to finish the mobile version
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Hello Microverse <a name="about-project"></a>
+# 📖 Finish Mobile Version <a name="about-project"></a>
 
 > **Setup and Mobile First** is a starter exercise to create a porfolio based on specific settings and requirements to ensure proper structure and best practices. By cloning this repo and running `npm install` we will have a basic of Porfolio with the finishing the Mobile Version and also with properly configured linters and correct initial file structrure.
 ## 🛠 Built With <a name="built-with"></a>
@@ -115,7 +111,7 @@ To run the linters before committing any changes to your code, execute the follo
 
 ## 👥 Authors <a name="authors"></a>
 
-> 👤 **GardimyReloaded**
+> 👤 **Gardimyloaded**
 - GitHub: [@Gardimy](https://github.com/Gardimy)
 - Twitter: [@gardyelontiga45](https://twitter.com/gardyelontiga45)
 - LinkedIn: [Gardimy charles](https://www.linkedin.com/in/gardimy-charles)
@@ -150,7 +146,7 @@ And I also want to thank to Brother Abdulazeez for his advice.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [LICENCE.md](./LICENSE) licensed.
 
 _NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
