@@ -1,5 +1,5 @@
 # Finish Mobile Version
-A Microverse exercise to finish the mobile version
+A Microverse exercise to finish the mobile version by adding the contact form
 <a name="readme-top"></a>
 
 <div align="center">
@@ -134,14 +134,13 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> If you like this project please give me a star on GitHub.
-And start to follow me.
+> If you like this project please give me a star on GitHub.And Don't hesitate to follow me on github, you will have the opportunity to get all updating available for this project.
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 > I would like to thank [Microverse](https://www.microverse.org/) for teaching me these tools.
-And I also want to thank to Brother Abdulazeez for his advice.
+And I also want to thank all my brothers for their advice.
 <!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
