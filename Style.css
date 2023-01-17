@@ -749,6 +749,7 @@ header nav div .menu-bar {
   height: 48px;
   border-radius: 8px;
   border: none;
+  padding: 3px;
 }
 
 #email {
@@ -770,6 +771,7 @@ header nav div .menu-bar {
   border-radius: 8px;
   border: none;
   margin-top: 18px;
+  padding: 3px;
 }
 
 .contactform .contact-form .text-area::placeholder {
