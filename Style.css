@@ -657,7 +657,7 @@ form {
   #menu a:hover {
     transform: translateY(-5px);
   }
-  
+
   .form-input {
     transition: all;
     transition-duration: 1s;
