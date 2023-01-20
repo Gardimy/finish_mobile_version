@@ -74,7 +74,7 @@ header {
   align-items: flex-start;
   gap: 12px;
   padding: 115px 24px 115px 24px;
-  background-image: url(./images/header-bg.png);
+  background-image: url(Images/header-bg.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: 100%;
@@ -480,7 +480,7 @@ form {
   }
 
   .head-section {
-    background-image: url("./images/Desktop-bg.png");
+    background-image: url("Images/Desktop-bg.png");
     background-repeat: no-repeat;
     background-size: 100%;
     background-position: top;
@@ -619,7 +619,7 @@ form {
   }
 
   .contact-form {
-    background-image: url(./images/Desktop-bg2.png);
+    background-image: url(Images/Desktop-bg2.png);
     background-size: 100%;
     display: flex;
     justify-content: center;
