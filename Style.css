@@ -60,6 +60,13 @@ body {
     align-items: center;
     text-align: center;
     color: #344563;
+    transition-property: all;
+    transition-duration: 1s;
+
+  }
+
+  #menu a:hover {
+    transform: translateY(-10px);
   }
 }
 
@@ -646,5 +653,23 @@ form {
   .form-button {
     margin-left: auto;
     margin-right: auto;
+  }
+
+  .form-input {
+    transition: all;
+    transition-duration: 1s;
+  }
+
+  .form-input:hover {
+    transform: translate(10px);
+  }
+
+  .form-textarea {
+    transition: all;
+    transition-duration: 1s;
+  }
+
+  .form-textarea:hover {
+    transform: translate(10px);
   }
 }
