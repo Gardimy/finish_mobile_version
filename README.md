@@ -1,5 +1,5 @@
 # Finish Mobile Version
-A Microverse exercise to finish the mobile version by adding the contact form
+A Microverse exercise to complete the Desktop version.
 <a name="readme-top"></a>
 
 <div align="center">
@@ -29,9 +29,9 @@ A Microverse exercise to finish the mobile version by adding the contact form
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Finish Mobile Version <a name="about-project"></a>
+# 📖 Desktop version <a name="about-project"></a>
 
-> **Setup and Mobile First** is a starter exercise to create a porfolio based on specific settings and requirements to ensure proper structure and best practices. By cloning this repo and running `npm install` we will have a basic of Porfolio with the finishing the Mobile Version and also with properly configured linters and correct initial file structrure.
+> **Desktop version** is a starter exercise to create a porfolio capable to work in ever device, based on specific settings and requirements to ensure proper structure and best practices. By cloning this repo and running `npm install`  also with properly configured linters and correct initial file structrure.
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
